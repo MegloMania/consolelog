@@ -1,0 +1,413 @@
+Loading libraries, please wait...
+[17:02:16 INFO]: Starting minecraft server version 1.9
+[17:02:16 INFO]: Loading properties
+[17:02:16 INFO]: Default game type: SURVIVAL
+[17:02:16 INFO]: This server is running CraftBukkit version git-Spigot-7d15d07-c194444 (MC: 1.9) (Implementing API version 1.9-SNAPSHOT)
+[17:02:16 INFO]: Debug logging is disabled
+[17:02:16 INFO]: Server Ping Player Sample Count: 12
+[17:02:16 INFO]: Using 4 threads for Netty based IO
+[17:02:16 INFO]: Generating keypair
+[17:02:16 INFO]: Starting Minecraft server on *:25565
+[17:02:16 INFO]: Using default channel type
+[17:02:17 ERROR]: Ambiguous plugin name `Essentials' for files `plugins\EssentialsX-2.18.0.0.jar' and `plugins\Essentials.jar' in `plugins'
+[17:02:17 INFO]: Set PluginClassLoader as parallel capable
+[17:02:17 INFO]: [LobbyAPI] Loading LobbyAPI v3.7.104
+[17:02:17 INFO]: [Citizens] Loading Citizens v2.0.17-SNAPSHOT (build 1316)
+[17:02:17 INFO]: [PluginConstructorAPI] Loading PluginConstructorAPI v1.0.52
+[17:02:17 INFO]: [WorldEdit] Loading WorldEdit v6.1.2;b3fbe8b
+[17:02:17 INFO]: [Essentials] Loading Essentials v2.18.0.0
+[17:02:17 INFO]: [ViaVersion] Loading ViaVersion v3.0.1
+[17:02:17 INFO]: [ViaVersion] ViaVersion 3.0.1 is now loaded, injecting!
+[17:02:17 INFO]: [ViaVersion] Loading 1.12.2 -> 1.13 mappings...
+[17:02:17 INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[17:02:17 INFO]: [ViaVersion] Loading 1.14.4 -> 1.15 mappings...
+[17:02:17 INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[17:02:17 INFO]: [CommandNPC] Loading CommandNPC v1.9.1
+[17:02:17 INFO]: [CommandPanels] Loading CommandPanels v2.8.0
+[17:02:17 INFO]: [InstaSpawn] Loading InstaSpawn v0.0.1
+[17:02:17 INFO]: [Multiverse-Core] Loading Multiverse-Core v2.5-b719
+[17:02:17 INFO]: [ProtocolLib] Loading ProtocolLib v4.5.1
+[17:02:17 INFO]: [WorldGuard] Loading WorldGuard v6.1.3-SNAPSHOT;c904242
+[17:02:17 INFO]: [BedWars] Loading BedWars v0.2.11
+[17:02:17 INFO]: [ProtocolLib] Enabling ProtocolLib v4.5.1
+[17:02:17 INFO]: [ProtocolLib] Started structure compiler thread.
+[17:02:17 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[17:02:17 INFO]: Preparing level "world"
+[17:02:17 INFO]: -------- World Settings For [world] --------
+[17:02:17 INFO]: Arrow Despawn Rate: 1200
+[17:02:17 INFO]: Item Despawn Rate: 6000
+[17:02:17 INFO]: Item Merge Radius: 2.5
+[17:02:17 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:17 INFO]: Experience Merge Radius: 3.0
+[17:02:17 INFO]: View Distance: 10
+[17:02:17 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:17 INFO]: Max Entity Collisions: 8
+[17:02:17 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:17 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:17 INFO]: Max TNT Explosions: 100
+[17:02:17 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:17 INFO]: Mob Spawn Range: 4
+[17:02:17 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:17 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:17 INFO]: Structure Info Saving: true
+[17:02:17 INFO]: Random Lighting Updates: false
+[17:02:17 INFO]: Cactus Growth Modifier: 100%
+[17:02:17 INFO]: Cane Growth Modifier: 100%
+[17:02:17 INFO]: Melon Growth Modifier: 100%
+[17:02:17 INFO]: Mushroom Growth Modifier: 100%
+[17:02:17 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:17 INFO]: Sapling Growth Modifier: 100%
+[17:02:17 INFO]: Wheat Growth Modifier: 100%
+[17:02:17 INFO]: NetherWart Growth Modifier: 100%
+[17:02:17 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:17 INFO]: [ViaVersion] Loading block connection mappings ...
+[17:02:18 INFO]: -------- World Settings For [world_nether] --------
+[17:02:18 INFO]: Arrow Despawn Rate: 1200
+[17:02:18 INFO]: Item Despawn Rate: 6000
+[17:02:18 INFO]: Item Merge Radius: 2.5
+[17:02:18 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:18 INFO]: Experience Merge Radius: 3.0
+[17:02:18 INFO]: View Distance: 10
+[17:02:18 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:18 INFO]: Max Entity Collisions: 8
+[17:02:18 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:18 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:18 INFO]: Max TNT Explosions: 100
+[17:02:18 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:18 INFO]: Mob Spawn Range: 4
+[17:02:18 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:18 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:18 INFO]: Structure Info Saving: true
+[17:02:18 INFO]: Random Lighting Updates: false
+[17:02:18 INFO]: Cactus Growth Modifier: 100%
+[17:02:18 INFO]: Cane Growth Modifier: 100%
+[17:02:18 INFO]: Melon Growth Modifier: 100%
+[17:02:18 INFO]: Mushroom Growth Modifier: 100%
+[17:02:18 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:18 INFO]: Sapling Growth Modifier: 100%
+[17:02:18 INFO]: Wheat Growth Modifier: 100%
+[17:02:18 INFO]: NetherWart Growth Modifier: 100%
+[17:02:18 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:18 INFO]: -------- World Settings For [world_the_end] --------
+[17:02:18 INFO]: Arrow Despawn Rate: 1200
+[17:02:18 INFO]: Item Despawn Rate: 6000
+[17:02:18 INFO]: Item Merge Radius: 2.5
+[17:02:18 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:18 INFO]: Experience Merge Radius: 3.0
+[17:02:18 INFO]: View Distance: 10
+[17:02:18 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:18 INFO]: Max Entity Collisions: 8
+[17:02:18 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:18 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:18 INFO]: Max TNT Explosions: 100
+[17:02:18 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:18 INFO]: Mob Spawn Range: 4
+[17:02:18 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:18 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:18 INFO]: Structure Info Saving: true
+[17:02:18 INFO]: Random Lighting Updates: false
+[17:02:18 INFO]: Cactus Growth Modifier: 100%
+[17:02:18 INFO]: Cane Growth Modifier: 100%
+[17:02:18 INFO]: Melon Growth Modifier: 100%
+[17:02:18 INFO]: Mushroom Growth Modifier: 100%
+[17:02:18 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:18 INFO]: Sapling Growth Modifier: 100%
+[17:02:18 INFO]: Wheat Growth Modifier: 100%
+[17:02:18 INFO]: NetherWart Growth Modifier: 100%
+[17:02:18 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:18 INFO]: Preparing start region for level 0 (Seed: 0)
+[17:02:19 INFO]: Preparing spawn area: 82%
+[17:02:19 INFO]: Preparing start region for level 1 (Seed: 8255842434598088251)
+[17:02:20 INFO]: Preparing spawn area: 66%
+[17:02:20 INFO]: Preparing start region for level 2 (Seed: 8255842434598088251)
+[17:02:20 INFO]: [LobbyAPI] Enabling LobbyAPI v3.7.104
+[17:02:20 INFO]: -------- World Settings For [bedwars] --------
+[17:02:20 INFO]: Arrow Despawn Rate: 1200
+[17:02:20 INFO]: Item Despawn Rate: 6000
+[17:02:20 INFO]: Item Merge Radius: 2.5
+[17:02:20 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:20 INFO]: Experience Merge Radius: 3.0
+[17:02:20 INFO]: View Distance: 10
+[17:02:20 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:20 INFO]: Max Entity Collisions: 8
+[17:02:20 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:20 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:20 INFO]: Max TNT Explosions: 100
+[17:02:20 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:20 INFO]: Mob Spawn Range: 4
+[17:02:20 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:20 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:20 INFO]: Structure Info Saving: true
+[17:02:20 INFO]: Random Lighting Updates: false
+[17:02:20 INFO]: Cactus Growth Modifier: 100%
+[17:02:20 INFO]: Cane Growth Modifier: 100%
+[17:02:20 INFO]: Melon Growth Modifier: 100%
+[17:02:20 INFO]: Mushroom Growth Modifier: 100%
+[17:02:20 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:20 INFO]: Sapling Growth Modifier: 100%
+[17:02:20 INFO]: Wheat Growth Modifier: 100%
+[17:02:20 INFO]: NetherWart Growth Modifier: 100%
+[17:02:20 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:20 INFO]: Preparing start region for level 3 (Seed: -1358641740816374019)
+[17:02:21 INFO]: [LobbyAPI]Bungee For LobbyAPI is disabled
+[17:02:21 INFO]: [LobbyAPI] Added world 'Bedwars'
+[17:02:21 WARN]: java.lang.NullPointerException
+[17:02:21 WARN]:        at me.zombie_striker.lobbyapi.Main.loadLocalWorlds(Main.java:1215)
+[17:02:21 WARN]:        at me.zombie_striker.lobbyapi.Main.onEnable(Main.java:229)
+[17:02:21 WARN]:        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291)
+[17:02:21 WARN]:        at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340)
+[17:02:21 WARN]:        at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405)
+[17:02:21 WARN]:        at org.bukkit.craftbukkit.v1_9_R1.CraftServer.loadPlugin(CraftServer.java:361)
+[17:02:21 WARN]:        at org.bukkit.craftbukkit.v1_9_R1.CraftServer.enablePlugins(CraftServer.java:321)
+[17:02:21 WARN]:        at net.minecraft.server.v1_9_R1.MinecraftServer.t(MinecraftServer.java:411)
+[17:02:21 WARN]:        at net.minecraft.server.v1_9_R1.MinecraftServer.l(MinecraftServer.java:376)
+[17:02:21 WARN]:        at net.minecraft.server.v1_9_R1.MinecraftServer.a(MinecraftServer.java:331)
+[17:02:21 WARN]:        at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:269)
+[17:02:21 WARN]:        at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:522)
+[17:02:21 WARN]:        at java.lang.Thread.run(Unknown Source)
+[17:02:21 ERROR]: Error occurred while enabling LobbyAPI v3.7.104 (Is it up to date?)
+java.lang.NoClassDefFoundError: org/bukkit/craftbukkit/libs/org/apache/commons/io/IOUtils
+        at me.zombie_striker.lobbyapi.utils.SpiGetUpdater.getLastUpdate(SpiGetUpdater.java:62) ~[?:?]
+        at me.zombie_striker.lobbyapi.utils.SpiGetUpdater.checkAutoUpdate(SpiGetUpdater.java:31) ~[?:?]
+        at me.zombie_striker.lobbyapi.utils.SpiGetUpdater.checkAutoUpdate(SpiGetUpdater.java:27) ~[?:?]
+        at me.zombie_striker.lobbyapi.Main.onEnable(Main.java:242) ~[?:?]
+        at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:340) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:405) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.craftbukkit.v1_9_R1.CraftServer.loadPlugin(CraftServer.java:361) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.craftbukkit.v1_9_R1.CraftServer.enablePlugins(CraftServer.java:321) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.t(MinecraftServer.java:411) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.l(MinecraftServer.java:376) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.a(MinecraftServer.java:331) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.DedicatedServer.init(DedicatedServer.java:269) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:522) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+Caused by: java.lang.ClassNotFoundException: org.bukkit.craftbukkit.libs.org.apache.commons.io.IOUtils
+        at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:91) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.plugin.java.PluginClassLoader.findClass(PluginClassLoader.java:86) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_261]
+        at java.lang.ClassLoader.loadClass(Unknown Source) ~[?:1.8.0_261]
+        ... 15 more
+[17:02:21 INFO]: [Citizens] Enabling Citizens v2.0.17-SNAPSHOT (build 1316)
+[17:02:21 INFO]: [Citizens] Unable to use economy handling. Has Vault been enabled?
+[17:02:21 INFO]: [PluginConstructorAPI] Enabling PluginConstructorAPI v1.0.52
+[17:02:21 INFO]: [WorldEdit] Enabling WorldEdit v6.1.2;b3fbe8b
+[17:02:21 INFO]: WEPIF: Using the Bukkit Permissions API.
+[17:02:21 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_9_R1 as the Bukkit adapter
+[17:02:21 INFO]: [Essentials] Enabling Essentials v2.18.0.0
+[17:02:21 ERROR]: [Essentials] You are running an unsupported server version!
+[17:02:21 INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[17:02:21 INFO]: No kits found to migrate.
+[17:02:21 INFO]: Loaded 852 items from items.csv.
+[17:02:21 INFO]: Using locale en_GB
+[17:02:21 INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[17:02:21 INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[17:02:21 INFO]: [Essentials] Using superperms-based permissions.
+[17:02:21 INFO]: [ViaVersion] Enabling ViaVersion v3.0.1
+[17:02:21 INFO]: [CommandNPC] Enabling CommandNPC v1.9.1
+[17:02:21 INFO]: [CommandNPC] Vault not found! Economy support for CommandNPC has been disabled.
+[17:02:21 INFO]: [CommandNPC] Initiating Database
+[17:02:21 INFO]: [CommandNPC] Injecting command info into Citizens.
+[17:02:21 INFO]: [CommandNPC] CommandNPC successfully loaded!
+[17:02:21 INFO]: [CommandNPC] Loading commands complete!
+[17:02:21 INFO]: [CommandPanels] Enabling CommandPanels v2.8.0
+[17:02:21 INFO]: [CommandPanels] RockyHawk's CommandPanels v2.8.0 Plugin Loading...
+[17:02:21 ERROR]: [CommandPanels] Plugin CommandPanels v2.8.0 has failed to register events for class me.rockyhawk.commandPanels.utils because org/bukkit/event/player/PlayerSwapHandItemsEvent does not exist.
+[17:02:22 INFO]: [CommandPanels] WARNING: CommandPanels is not running the latest version (CommandPanels v3.6.0) Download a new version at
+[17:02:22 INFO]: [CommandPanels] https://www.spigotmc.org/resources/command-panels-custom-guis.67788/
+[17:02:22 INFO]: [CommandPanels] RockyHawk's CommandPanels v2.8.0 Plugin Loaded!
+[17:02:22 INFO]: [InstaSpawn] Enabling InstaSpawn v0.0.1
+[17:02:22 INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.5-b719
+[17:02:22 INFO]: -------- World Settings For [Bedwars Teams] --------
+[17:02:22 INFO]: Arrow Despawn Rate: 1200
+[17:02:22 INFO]: Item Despawn Rate: 6000
+[17:02:22 INFO]: Item Merge Radius: 2.5
+[17:02:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:22 INFO]: Experience Merge Radius: 3.0
+[17:02:22 INFO]: View Distance: 10
+[17:02:22 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:22 INFO]: Max Entity Collisions: 8
+[17:02:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:22 INFO]: Max TNT Explosions: 100
+[17:02:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:22 INFO]: Mob Spawn Range: 4
+[17:02:22 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:22 INFO]: Structure Info Saving: true
+[17:02:22 INFO]: Random Lighting Updates: false
+[17:02:22 INFO]: Cactus Growth Modifier: 100%
+[17:02:22 INFO]: Cane Growth Modifier: 100%
+[17:02:22 INFO]: Melon Growth Modifier: 100%
+[17:02:22 INFO]: Mushroom Growth Modifier: 100%
+[17:02:22 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:22 INFO]: Sapling Growth Modifier: 100%
+[17:02:22 INFO]: Wheat Growth Modifier: 100%
+[17:02:22 INFO]: NetherWart Growth Modifier: 100%
+[17:02:22 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:22 INFO]: Preparing start region for level 4 (Seed: 0)
+[17:02:22 INFO]: -------- World Settings For [Bedwars Teams 2] --------
+[17:02:22 INFO]: Arrow Despawn Rate: 1200
+[17:02:22 INFO]: Item Despawn Rate: 6000
+[17:02:22 INFO]: Item Merge Radius: 2.5
+[17:02:22 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:22 INFO]: Experience Merge Radius: 3.0
+[17:02:22 INFO]: View Distance: 10
+[17:02:22 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:22 INFO]: Max Entity Collisions: 8
+[17:02:22 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:22 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:22 INFO]: Max TNT Explosions: 100
+[17:02:22 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:22 INFO]: Mob Spawn Range: 4
+[17:02:22 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:22 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:22 INFO]: Structure Info Saving: true
+[17:02:22 INFO]: Random Lighting Updates: false
+[17:02:22 INFO]: Cactus Growth Modifier: 100%
+[17:02:22 INFO]: Cane Growth Modifier: 100%
+[17:02:22 INFO]: Melon Growth Modifier: 100%
+[17:02:22 INFO]: Mushroom Growth Modifier: 100%
+[17:02:22 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:22 INFO]: Sapling Growth Modifier: 100%
+[17:02:22 INFO]: Wheat Growth Modifier: 100%
+[17:02:22 INFO]: NetherWart Growth Modifier: 100%
+[17:02:22 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:22 INFO]: Preparing start region for level 5 (Seed: 0)
+[17:02:23 INFO]: -------- World Settings For [Bedwars Doubles] --------
+[17:02:23 INFO]: Arrow Despawn Rate: 1200
+[17:02:23 INFO]: Item Despawn Rate: 6000
+[17:02:23 INFO]: Item Merge Radius: 2.5
+[17:02:23 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[17:02:23 INFO]: Experience Merge Radius: 3.0
+[17:02:23 INFO]: View Distance: 10
+[17:02:23 INFO]: Zombie Aggressive Towards Villager: true
+[17:02:23 INFO]: Max Entity Collisions: 8
+[17:02:23 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[17:02:23 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[17:02:23 INFO]: Max TNT Explosions: 100
+[17:02:23 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[17:02:23 INFO]: Mob Spawn Range: 4
+[17:02:23 INFO]: Nerfing mobs spawned from spawners: false
+[17:02:23 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[17:02:23 INFO]: Structure Info Saving: true
+[17:02:23 INFO]: Random Lighting Updates: false
+[17:02:23 INFO]: Cactus Growth Modifier: 100%
+[17:02:23 INFO]: Cane Growth Modifier: 100%
+[17:02:23 INFO]: Melon Growth Modifier: 100%
+[17:02:23 INFO]: Mushroom Growth Modifier: 100%
+[17:02:23 INFO]: Pumpkin Growth Modifier: 100%
+[17:02:23 INFO]: Sapling Growth Modifier: 100%
+[17:02:23 INFO]: Wheat Growth Modifier: 100%
+[17:02:23 INFO]: NetherWart Growth Modifier: 100%
+[17:02:23 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[17:02:23 INFO]: Preparing start region for level 6 (Seed: 0)
+[17:02:24 INFO]: [Multiverse-Core] 8 - World(s) loaded.
+[17:02:24 INFO]: [Multiverse-Core] Version 2.5-b719 (API v20) Enabled - By Rigby, fernferret, lithium3141 and main--
+[17:02:24 INFO]: [WorldGuard] Enabling WorldGuard v6.1.3-SNAPSHOT;c904242
+[17:02:24 INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (world) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'world'
+[17:02:24 INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[17:02:24 INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[17:02:24 INFO]: [WorldGuard] (bedwars) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (bedwars) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (bedwars) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (bedwars) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'bedwars'
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'Bedwars Teams'
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams 2) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams 2) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams 2) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Teams 2) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'Bedwars Teams 2'
+[17:02:24 INFO]: [WorldGuard] (Bedwars Doubles) TNT ignition is PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Doubles) Lighters are PERMITTED.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Doubles) Lava fire is blocked.
+[17:02:24 INFO]: [WorldGuard] (Bedwars Doubles) Fire spread is UNRESTRICTED.
+[17:02:24 INFO]: [WorldGuard] Loaded configuration for world 'Bedwars Doubles'
+[17:02:24 INFO]: [WorldGuard] Loading region data...
+[17:02:24 INFO]: [BedWars] Enabling BedWars v0.2.11
+[17:02:24 INFO]: [BedWars] Successfully loaded messages for BedWars! Language: English
+[17:02:24 INFO]: [BedWars] Loading statistics from YAML-File ...
+[17:02:24 ERROR]: [BedWars] Plugin BedWars v0.2.11 has failed to register events for class org.screamingsandals.bedwars.listener.Player19Listener because org/bukkit/event/player/PlayerSwapHandItemsEvent does not exist.
+[17:02:24 INFO]: ================  by ScreamingSandals <Misat11, Ceph>
+[17:02:24 INFO]: + BedWars Zero +   Version: 0.2.11
+[17:02:24 INFO]: ================  STABLE VERSION
+[17:02:24 WARN]: [BedWars] Future versions of plugins from ScreamingSandals will require at least Java 11. Your server is not prepared for it. Update your Java or contact your hosting.Java 8 for commercial usage is already out of casual support, for personal usage it's supported until December 2020!Java 9 and Java 10 were short-term support versions, these versions are already not supported.
+[17:02:24 WARN]: [BedWars] Future versions of Java will require Minecraft version at least 1.12
+[17:02:24 INFO]: [BW] Arena ChainedTeams loaded!
+[17:02:24 INFO]: [BW] Arena JurassicTeams loaded!
+[17:02:24 INFO]: [BW] Arena RuinedDoubles loaded!
+[17:02:24 INFO]: [BW] Arena ZenDoubles loaded!
+[17:02:24 INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
+[17:02:24 INFO]: https://www.patreon.com/screamingsandals
+[17:02:24 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[17:02:24 INFO]: Done (7.026s)! For help, type "help" or "?"
+[17:02:25 INFO]: [ViaVersion] ViaVersion detected server version: 1.9(107)
+[17:02:25 INFO]: [Citizens] Loaded 4 NPCs.
+[17:02:58 INFO]: UUID of player xMeglo is e847c097-baa7-4d49-90b6-6af58186e2a1
+[17:02:58 WARN]: [ViaVersion] Ignoring plugin channel in outgoing REGISTER: WECUI
+[17:02:58 INFO]: xMeglo[/127.0.0.1:63720] logged in with entity id 29 at ([bedwars]77.04953318633645, 16.0, -713.9291622155876)
+[17:02:58 WARN]: [BedWars] Task #43 for BedWars v0.2.11 generated an exception
+java.lang.NullPointerException
+        at org.screamingsandals.bedwars.holograms.NMSUtilsHologramInteraction.updatePlayerHologram(NMSUtilsHologramInteraction.java:148) ~[?:?]
+        at org.screamingsandals.bedwars.holograms.NMSUtilsHologramInteraction.lambda$updateHolograms$0(NMSUtilsHologramInteraction.java:106) ~[?:?]
+        at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftTask.run(CraftTask.java:71) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.craftbukkit.v1_9_R1.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:350) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:724) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:655) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:554) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+[17:03:03 INFO]: xMeglo issued server command: /cp bedwarsteams
+[17:03:03 ERROR]: Could not pass event InventoryOpenEvent to CommandPanels v2.8.0
+org.bukkit.event.EventException
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:310) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:718) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:712) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.craftbukkit.v1_9_R1.entity.CraftHumanEntity.openInventory(CraftHumanEntity.java:187) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at me.rockyhawk.commandPanels.commandpanels.openGui(commandpanels.java:519) [Command+Panels+v2.8.0.jar:?]
+        at me.rockyhawk.commandPanels.commands.commandpanel.onCommand(commandpanel.java:358) [Command+Panels+v2.8.0.jar:?]
+        at org.bukkit.command.PluginCommand.execute(PluginCommand.java:44) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:141) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at org.bukkit.craftbukkit.v1_9_R1.CraftServer.dispatchCommand(CraftServer.java:645) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.PlayerConnection.handleCommand(PlayerConnection.java:1302) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1137) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.PacketPlayInChat.a(PacketPlayInChat.java:45) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.PacketPlayInChat.a(PacketPlayInChat.java:1) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_261]
+        at java.util.concurrent.FutureTask.run(Unknown Source) [?:1.8.0_261]
+        at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:716) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:655) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:554) [spigot.jar:git-Spigot-7d15d07-c194444]
+        at java.lang.Thread.run(Unknown Source) [?:1.8.0_261]
+Caused by: java.lang.NoSuchMethodError: org.bukkit.inventory.PlayerInventory.getStorageContents()[Lorg/bukkit/inventory/ItemStack;
+        at me.rockyhawk.commandPanels.premium.commandpanelrefresher.onInventoryOpen(commandpanelrefresher.java:100) ~[?:?]
+        at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_261]
+        at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+        at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source) ~[?:1.8.0_261]
+        at java.lang.reflect.Method.invoke(Unknown Source) ~[?:1.8.0_261]
+        at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306) ~[spigot.jar:git-Spigot-7d15d07-c194444]
+        ... 24 more
+>
